@@ -3,7 +3,7 @@ package org.billingsys.ashrafiyabillingsystem;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class BillingController {
     @FXML
     private Label welcomeText;
 
